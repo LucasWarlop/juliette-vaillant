@@ -1,0 +1,24 @@
+//utilities
+@import 'utilities/_variables.scss';
+
+//base
+@import 'base/_reset.scss';
+@import 'base/_typographie.scss';
+
+//components
+@import 'components/_education.scss';
+@import 'components/_career.scss';
+@import 'components/_profesionnal.scss';
+
+//layout
+@import 'layout/_grid.scss';
+@import 'layout/_header.scss';
+@import 'layout/_footer.scss';
+@import 'layout/_aside.scss';
+@import 'layout/_main.scss';
+@import 'layout/_navbar.scss';
+
+//pages
+
+//themes
+@import 'themes/_default.scss';
