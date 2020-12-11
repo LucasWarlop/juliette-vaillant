@@ -1,0 +1,22 @@
+.App {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+
+    height: 100vh;
+}
+
+header {
+    grid-column: span 3;
+    grid-row: span 4;
+}
+main {
+    grid-column: span 9;
+    grid-row: span 12;
+    height: 100vh;
+    background-color: gray;
+}
+aside {
+    grid-column: span 3;
+    grid-row: span 8;
+    background-color: aqua;
+}

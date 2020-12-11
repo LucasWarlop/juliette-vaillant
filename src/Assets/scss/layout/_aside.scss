@@ -1,1 +1,22 @@
 
+.aside {
+    background-color: $quaternary-color;
+    padding: 0 50px;
+    
+    h3 {
+        margin: 0;
+    }
+
+    section {
+        padding-top: 30px;
+    }
+}
+
+.aside__personnal__body {
+    display: flex;
+    justify-content:space-between;
+    flex-wrap: wrap;
+}
+// .aside__personnal__body--2 {
+//     margin-left: 30px;
+// }
