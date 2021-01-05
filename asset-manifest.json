@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/juliette-vaillant/static/css/main.3b0b86f8.chunk.css",
+    "main.js": "/juliette-vaillant/static/js/main.80ed6dfa.chunk.js",
+    "main.js.map": "/juliette-vaillant/static/js/main.80ed6dfa.chunk.js.map",
+    "runtime-main.js": "/juliette-vaillant/static/js/runtime-main.80b3a1cd.js",
+    "runtime-main.js.map": "/juliette-vaillant/static/js/runtime-main.80b3a1cd.js.map",
+    "static/js/2.f2a2ebd4.chunk.js": "/juliette-vaillant/static/js/2.f2a2ebd4.chunk.js",
+    "static/js/2.f2a2ebd4.chunk.js.map": "/juliette-vaillant/static/js/2.f2a2ebd4.chunk.js.map",
+    "index.html": "/juliette-vaillant/index.html",
+    "static/css/main.3b0b86f8.chunk.css.map": "/juliette-vaillant/static/css/main.3b0b86f8.chunk.css.map",
+    "static/js/2.f2a2ebd4.chunk.js.LICENSE.txt": "/juliette-vaillant/static/js/2.f2a2ebd4.chunk.js.LICENSE.txt",
+    "static/media/juliette_vaillant_portrait_cut-min.0c638658.jpg": "/juliette-vaillant/static/media/juliette_vaillant_portrait_cut-min.0c638658.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80b3a1cd.js",
+    "static/js/2.f2a2ebd4.chunk.js",
+    "static/css/main.3b0b86f8.chunk.css",
+    "static/js/main.80ed6dfa.chunk.js"
+  ]
+}
