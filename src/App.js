@@ -1,5 +1,6 @@
 import React from 'react';
-import "./Assets/css/style.min.css";
+import './Assets/scss/style.css'
+
 
 import Main from './Containers/Main';
 import Header from './Containers/Header';

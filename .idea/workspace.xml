@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="40d2deda-2149-4c04-be7e-165a13b34a88" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/juliette-vaillant.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assets/scss/global.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assets/scss/style.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintcache" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintcache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assets/scss/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assets/css/style.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assets/scss/components/_career.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assets/scss/components/_career.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assets/scss/components/_education.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assets/scss/components/_education.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assets/scss/components/_profesionnal.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assets/scss/components/_profesionnal.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assets/scss/layout/_aside.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assets/scss/layout/_aside.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assets/scss/layout/_grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assets/scss/layout/_grid.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assets/scss/layout/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assets/scss/layout/_header.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assets/scss/layout/_main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assets/scss/layout/_main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assets/scss/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assets/scss/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assets/scss/themes/_default.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assets/scss/themes/_default.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Containers/Aside.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Containers/Aside.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Containers/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Containers/Header.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Containers/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Containers/Main.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1m0PB6lXmbxZ4hJMbVXsOv5sc0o" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="NewWatcherDialog.advanced.open" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40d2deda-2149-4c04-be7e-165a13b34a88" name="Default Changelist" comment="" />
+      <created>1608627397682</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608627397682</updated>
+      <workItem from="1608627400597" duration="1310000" />
+      <workItem from="1608629192557" duration="947000" />
+      <workItem from="1609821490806" duration="478000" />
+      <workItem from="1609821972191" duration="6244000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

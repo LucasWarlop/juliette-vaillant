@@ -1,0 +1,21 @@
+
+.etudes {
+  padding: 0 50px;
+  color: white;
+  h3 {
+    font-family: $primary-font;
+  }
+  h4 {
+    text-transform: uppercase;
+  }
+}
+.etudes {
+  border-bottom: white solid 2px;
+}
+
+.main__etude {
+  .flip-card-front {
+    font-size: 6em;
+    top: 35%;
+  }
+}
